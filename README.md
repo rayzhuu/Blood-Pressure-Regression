@@ -1,3 +1,2 @@
 # Blood-Pressure-Regression
-Final research project in a data collection course concerning the regression analysis between blood pressure and researched variables
-The PDF listed is the final product where as all the code and various graphs constructed for the project are shown above. 
+This final research project from a data collection course that explores the connection between blood pressure and different variables. The project's final PDF report displays all the results, along with several graphs that were created using code. The findings are both intriguing and informative, making it a great resource for anyone interested in medical data analysis. 
